@@ -1,0 +1,8 @@
+J-323_band6.fits
+J-332_band6.fits
+J-365_band6.fits
+J-390_band3.fits
+J-390_band6.fits
+J-401_band6.fits
+J-415_band3.fits
+J-415_band6.fits
